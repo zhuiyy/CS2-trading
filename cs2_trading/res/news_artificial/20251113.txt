@@ -1,0 +1,352 @@
+HLTV Prospect Report #1 update: molodoy jumps to first
+13-11-2025 04:00
+
+The Kazakh sniper becomes the top prospect after securing a second MVP award in his rookie year at the top level.
+
+
+Now that we have plenty of data from July 1 through November 2, the HLTV Prospect Ranking needed a reshuffling. Our methodology is largely the same as it was in the first report, but we have added automated elements to the ranking by scoring players on key statistics and weighting them against event and opposition difficulty. This is an update of the ranking from the first report, and a new ranking with graduating players and newcomers will be published when the ongoing season is over.
+
+
+Read more
+HLTV Prospect Report #1
+While this tweak has helped identify players we underrated initially like Asian talents Anarbileg "⁠cobrazera⁠" Uuganbayar, Shengxuan "⁠chengking⁠" Zu and Qianhao "⁠Moseyuh⁠" Chen, the main driving force behind players' movements up and down the list are their own form.
+
+
+For instance, Danil "⁠molodoy⁠" Golubenko has won two MVPs in that time, going from strength to strength as FURIA's star sniper and hopped over Maxim "⁠kyousuke⁠" Lukin into first place.
+
+The biggest movers are the likes of Klimentii "⁠kl1m⁠" Krivosheev and Dmytro "⁠dem0n⁠" Myroshnychenko, whose moves out of academy teams helped them play against tougher opposition and prove their worth. The last few months have also been good for David "⁠Dawy⁠" Bibik, who has shone for Inner Circle and TNL in the second half of the year, as well as Gytis "⁠ryu⁠" Glušauskas (1.17 rating since July) and João "⁠koala⁠" Pfeffer (1.18).
+
+In terms of fallers, prospects like Ivan "⁠zweih⁠" Gogin, Corey "⁠nettik⁠" Browne, and Jaxon "⁠Peeping⁠" Cornwell have struggled in new teams and have fallen down the list. Our new methodology has also hurt low-output players like Ryan "⁠Neityu⁠" Aubry and Emil "⁠nota⁠" Moskvitin, who have been playing at a similar level as the first half of the year but lost in tiebreakers to players ahead of them.
+
+Due to the interim ESIC suspension of Anton "⁠Meinz⁠" Evander, we felt it appropriate to replace him on the list, and the obvious candidate was his compatriot Linus "⁠nilo⁠" Bergman.
+
+HEROIC's 20-year-old rifler didn't play in the first season and wasn't featured in our first prospect ranking, but he would have made the list had there been sufficient data based on his career figures in CS2, a 1.17 rating.
+
+Meinz's ban means we can rectify the situation and slot nilo into the ranking without needing to wait for the new Prospect Report #2 list which will come in early 2026.
+
+
+Only a few players have changed teams since we released the list for the first half of 2025, like Gleb "⁠gr1ks⁠" Gazin to BIG and Nicky "⁠NickyB⁠" Bruhn to Tricked, but given how new this project is it is a good time to take stock of how many players are already stepping through the tiers.
+
+Dive deeper into the prospects data with our interactive stats page
+On top of the update to the ranking we've picked four players to put a spotlight on. Sam "Draik" Popkes spoke to one of FUT's three top 50 prospects, dem0n, at CS Asia Championships, and Danish "⁠Nohte⁠" Allana interviewed Inner Circle's Dawy at ESL Pro League Season 22.
+
+Christoffer "⁠Chr1zN⁠" Storgaard took some time to speak with Milan "⁠Striker⁠" Švejda at Thunderpick World Championship before he was benched in OG, and Tomas "⁠tomaszin⁠" Corna hopped on a call where we learned more about BESTIA's rising star in South America.
+
+
+Quick facts
+He broke out at the Shanghai RMR (1.42 rating, even as BESTIA went out 2-3) and has gone up a level in the last three months (1.16 season 1, 1.21 season 2)
+
+Although he rarely leaves his home continent, tomaszin has been solid against top opposition (1.15 rating vs top 30 teams in 70 maps, 2nd only to kyousuke and better than molodoy's 1.14).
+
+He has not played a big event yet, halting progress higher up the list, but was unlucky to miss Austin Major due to visa issues.
+
+He shies away from opening duels more than most young riflers at 19%, which could put him in the tradition of South America's star lurkers (coldzera, KSCERATO, dgt, latto).
+
+He wins 69.2% of his 1on1s, and has 0.86 clutch points per 24 rounds (3rd in the list, behind flayy (1.07) and kashl1d (0.87)).
+
+As is only fitting for an Argentine competitor, tomaszin looks up to Maradona and has photos of him everywhere. But that's football, when it comes to Counter-Strike he doesn't want to play like anyone else. "I want other people to play like me," he says. "It's like that famous saying, 'If I want to be like someone else, then who will want to be like me?'"
+
+tomaszin is a rare hybrid player in a generation of aggressive W enjoyers, but much of his inspiration comes more from legacy and love of the game. "A player who has inspired me as the years go by and still inspires me because of his enthusiasm and his magic is karrigan," tomaszin says. Him and FalleN, who is also doing really well this year with FURIA, and is also a veteran. They still transmit that same inspiration and still have the same hunger to win that he did six or seven years ago when I watched them when I was starting to play the game."
+
+Going further back than when tomaszin first watched some of his favorite players, his first contact with Counter-Strike was through family, an older cousin he would watch play 1.6 for hours on end. He then started playing the game himself in 2010 or 2011 when he was given a laptop. "I was going to school and sometimes my mom would also take me to her work and we'd commute for like an hour," tomaszin recalls. "I'd take my laptop in my backpack and I'd play while she worked. When we got back home I'd keep playing, and when I got back from school I also played. I was always playing, I loved it."
+
+tomaszin didn't make the jump to CS:GO until late 2015 or early 2016, when his mother bought him his first desktop and he learned about CS tournaments and the larger competitive scene. Later in 2016 he followed Argentina's national team as they made it all the way to the final at The World Championships, but the next big spike in tomaszin's development came when everybody was locked down during the Covid pandemic. "I spent literally all day playing," he recalls. "I had a pretty unhealthy routine sleeping at 11 AM, waking up at 6 or 7 PM, and playing all night until I fell asleep in the morning. Then I woke up the next afternoon and did it all over again."
+
+tomaszin's first competitive experience came when he and his TeamSpeak friend group made a team and were temporarily contracted by Huracán, a football club from Argentina that wanted to field a team in La Liga Pro. They played together for three months during the duration of the tournament and then disbanded. It wouldn't be until two years later, in late 2021, that tomaszin would think about competing again. "Furious Gaming and some other teams had approached me," tomaszin says about that period, "I think 9z did as well — I spoke with their coach at the time —, but I told everyone I wasn't interested in competing."
+
+I never stopped believing that I would make a living from CS. I had the plan B in the back of my mind, going back to school to study, but I already knew that wasn't going to be my future
+Tomas "⁠tomaszin⁠" Corna
+It was upon completing his high school studies that tomaszin really dove in. "I studied law for the first six months of 2022, but I quickly realized that I had picked the wrong career. It wasn't for me," he recalls. "So I said, 'I have six months until the end of the year to get on a team and play professionally — to get paid and be able to live off of Counter-Strike."
+
+The decision to pursue gaming in favor of a law degree caused some friction at home. "My family and my mom didn't really understand this whole Counter-Strike thing," he says, although his mother wasn't unsupportive and had always let him play since childhood without issues. "The arguments were normal for a mother who just wanted to tell their son, 'Study or work, but don't be lazy.' It's understandable."
+
+tomaszin started to play the local PUG leagues and joined Ape Gang, an organizationless team that was decent at the local level but never got any backing. "I was always just trying to make enough time for what I knew was eventually going to come," he recalls. "I never stopped believing that I would make a living from CS. I had the plan B in the back of my mind, going back to school to study, but I already knew that wasn't going to be my future."
+
+The first real professional contract came when his former Ape Gang teammate Matias "⁠pavv⁠" Pavón lobbied to bring him into his new team, Boca Juniors. "It was pretty crazy because how do you explain to somebody who doesn't know Counter-Strike that you're going to be playing for Boca Juniors? It's the most famous football club in Argentina and known around the world," he says.
+
+That's when everything changed, and the discussions at home were no more. "I didn't speak about it with my mother," tomaszin says, "but I guess she went from thinking that I was being lazy and spending all day on the PC to thinking, 'OK, he's actually making some money by sitting in front of the computer all day.'"
+
+
+"Before they even talked to me or anything, I knew it was my time," tomaszin says of getting the call from BESTIA
+By then, tomaszin was already getting some recognition at the local level. Before even joining Boca Juniors, the most tenured captain in Argentina, Nicolás "⁠Noktse⁠" Dávila, had called him to let him know that they had their eye on him."It wasn't like they were trying to sign me or anything, but it was a really helpful chat for me," tomaszin recalls. "I was being recognized for what I had done up to that point, which was basically just playing well."
+
+Three months later, BESTIA announced the benching of Luca "⁠Luken⁠" Nadotti and tomaszin knew his time had come. "Before they even talked to me or anything, I knew it was my time," he says. "I knew that this was another rung on the ladder. It was a top team in the region, not just a good local team, like Boca, where we were good in Argentina but we never got far regionally. This was the next step."
+
+tomaszin took his first weeks on the team as a time to become a sponge and learn from his more experienced teammates. The change in level of competition was notable and there was some inconsistency early on, but he was confident that after the adaptation period he would play well once he had everything figured out. "I was confident in my individual level beyond the knowledge I had at that time, which was pretty rudimentary. The micro and the macro, I just didn't understand the game the way I do now," he says.
+
+"I came into the team with a humble attitude and listening to what everyone had to tell me because they knew more than me, and to learn how they saw everything the way they did," tomaszin recalls, "but bluntly speaking, I knew that once it clicked, once I figured out how everything worked, I was going to play well and carry." And, for the most part, that's how it was going, but some of the biggest lessons tomaszin learned over the past three years in BESTIA came outside of the server.
+
+
+"First of all I have to respect my work and the work of others because this is a team game, not an individual game," tomaszin says of learning how to become a professional
+"What I learned the most — and this is something that Noktse, Pino, and Zote, whom I've been with on the team the longest helped teach me —, was to be a professional and that professionalism and Counter-Strike are a style of life," tomaszin says. "It's about giving your all to get where you want to get and to become who you want to become. It's very easy to get here and say, 'I want to be the best and play on the best team' or whatever, but what really makes a difference is the work behind it, and there's no other secret than work ethic, consistency, and whether the decisions you make match your dreams."
+
+"To be a real professional," tomaszin adds, "first of all I have to respect my work and the work of others because this is a team game, not an individual game. It's hard to be as good as you can be all of the time, but you have to think that if you're not giving your best, you're failing yourself and not being honest with yourself, and on top of that you're affecting the work and dreams of others. You have teammates who also have dreams and are maybe doing all they can to make them come true, and it's a lack of respect if you're not giving everything on your part when the people beside you are."
+
+Of those lessons, the losses leave the biggest marks. "I think it's just part of that self-destructive thing we have as humans," tomaszin says."I don't remember precise moments, but I do remember moments that marked me as a competitor, and it's always the hardest losses, like the Shanghai Major RMR — it was pretty tough and it served me well to grow as a person and mature.
+
+That RMR was a turning point for me because I was calm and played thinking only about the game and not about the situation itself or its importance
+Tomas "⁠tomaszin⁠" Corna about his breakout at the Shanghai RMR
+"And in Mexico, at my first RMR. It really marked me because I went in with so many expectations. We were fighting Liquid in a best-of-one, almost beating them, 11-11, to losing 0-2 to Wildcard the next day and being eliminated. It was a very sad way of going out. Then in China, when we lost and were out 2-3, just one best-of-three away… It was like, 'OK, at least I now have this experience.'"
+
+The growth between the two RMRs shows tomaszin's evolution in just one year. From not knowing what was coming in Mexico, where he ended his team's 0-2 finish with a 1.01 rating, to a breakthrough performance in China, where he finished with a 1.42 rating in the 2-3 run. The confidence of knowing that he could cut out the noise and perform when the stakes were high shone through.
+
+One on those moments was the 1-2 match in the Shanghai RMR that BESTIA played against BOSS, a three-map series that started with the Argentines losing their map pick in which tomaszin posted a 1.75 rating to keep his team's hopes of qualifying for the Major in China alive.
+
+
+"Losing the Shanghai RMR was pretty tough because I had the sadness of being eliminated, of being really close to the dream of playing at a Major, but at the same time I was satisfied with my showing on an individual level and I finally felt like I could play to my potential," tomaszin says. "That RMR was a turning point for me because I was calm and played thinking only about the game and not about the situation itself or its importance."
+
+tomaszin has also been refining his game on the server. He's a rare breed among the youngsters coming up, who usually favor a more outwardly aggressive style, but he doesn't want to be boxed into being considered purely passive. "You can't always be closed into a single style and something I've noticed is that I used to be pretty passive in my roles and I was never looking for duels and entries or trying to make space," he says, "but with time I feel like I've become more hybrid in that sense. I can be pretty aggressive one game, change rhythm, and be pretty unpredictable."
+
+tomaszin has generally always put up strong numbers, but he saw that many times, he wasn't feeling his impact on the server. "I didn't feel like a player who was swinging rounds or changing the course of the game," he says. "I knew I was capable of doing it, but because of my style I maybe wasn't putting it into play and that's why in the past year I've realized that I can be a bit more aggressive even if I'm limited by certain roles or positions, so I try to do that."
+
+The image I have in my mind, what I think about before falling asleep, is me lifting a trophy, or the casters in an arena shouting my name when I make a play and everybody is going wild
+Tomas "⁠tomaszin⁠" Corna
+Players he likes to watch who have similar roles? Ilya "⁠Perfecto⁠" Zalutskiy, when he played for Natus Vincere, for one, and Robin "⁠ropz⁠" Kool, a crucial key in his favorite team of all time, the FaZe of 2022. Russel "⁠Twistzz⁠" Van Dulken, too, is a player he mentioned, of course also from that dominant FaZe team. From the new gen, Danil "⁠donk⁠" Kryshkovets couldn't miss out on the list. "He came in and broke everything," tomaszin says. "He broke all of the records and he's the best rifler since he landed in tier one, without a doubt."
+
+
+tomaszin has been studying English to make sure that if an offer were ever to come his way, he could jump on it, although he doesn't discard remaining in his team and region if he believes he has a chance to win.
+
+"My goal is to be one of the best players in the world and etch my name into the game's history," he says. "The image I have in my mind, what I think about before falling asleep, is me lifting a trophy, or the casters in an arena shouting my name when I make a play and everybody is going wild. If I stop and think about it, something that would make me happy, is playing in those arenas with that tension and beautiful atmosphere. That's what motivates me to want to win and qualify for those tournaments."
+
+
+Quick facts
+One of three IGLs on the list, Chr1zn falls slightly to 17th after being benched in OG and the team not making the Budapest Major (but also because of breakout talents overtaking).
+
+He briefly tried AWPing in MOUZ NXT and stood in for HEROIC, but is now a rifling IGL happy to sacrifice for the team. 34% of kills come with non-rifle weapons, far more than our two other prospect IGLs, Gizmy (29%) and Krabeni (23%).
+
+0.07 flash assists per round and 0.74 flashes thrown per round also tell a tale, but he does like to control the action on CT in spots like Connector on Mirage or B rotate in Overpass.
+
+Like every young Counter-Strike fan in Denmark between 2017 and 2019, Chr1zN is an Astralis baby. The young Dane got caught in the Astralis wave, a country-wide frenzy when the team was building the dynasty that rewrote how the game was played, won the first Intel Grand Slam, and lifted four Major trophies. But his first love actually lay far from home, in Brazil, and only the notion that one could not cheer for several teams steered him solely towards the Astralis camp.
+
+Chr1zN was first introduced to the game as it is best enjoyed in Odense, Denmark, at the Pro League Season 6 Finals, where he was actually cheering for Gabriel "⁠FalleN⁠" Toledo and SK. "At the time I hadn't really watched a professional game ever, so I don't know why," he says. "For some reason that was the first team I supported. I was an Astralis fan, and an SK fan, you know? Then my dad told me I had to choose one because you can't be fan of two teams. So of course, I ended up going with Astralis."
+
+Astralis were getting pushed by the media and Chr1zN wanted to be like them. "gla1ve had always been my idol for the longest time," Chr1zN says. "I really looked up to him, especially. I think he was very impressive, being the IGL and also being capable of shooting the way he did." But it wasn't just Lukas "⁠gla1ve⁠" Rossander, he looked up to all of that Astralis as role models and used wanting to be them as motivation to become a professional.
+
+Chr1zN had gotten into Counter-Strike at around 12 years old through a friend and when he realized that he was getting good, he even prioritized it above his footballing aspirations. Some players start by watching, or playing for fun in community servers or alternate game modes, but the Dane want more than a low-stakes environment. "I've always wanted to win a bit too much, so I tried to get on a team as fast as possible and started playing with my younger brother and sirah, who plays on ECSTATIC now, and some older guys in Denmark."
+
+From there on out, everything went fast. Joining his first team in early 2022, AGF, led to Tricked after just a couple of months, and then to his first feel for an international project at MOUZ NXT by September under the orders of countryman Tobias "⁠TOBIZ⁠" Theo. Two years later he was captaining tier-two side OG, and then after just one more year he started at his first Major in Austin.
+
+
+Chr1zN was invited to play in front of the Danish crowd at a showmatch during the PGL Copenhagen Major
+"Throughout my whole competitive journey I've been steadily climbing, so it has all been very natural," Chr1zN says. "Every time I've had to take a step up, I've kind of done it, which is lucky. A lot of it is timing and knowing the right people."
+
+Chr1zN first had real options after Tricked. He could have decided to stay with them or go on another Danish team, but the lure of joining one of the most prolific academy teams in the world, MOUZ NXT was too strong. "When I got the message from TOBIZ I was a little overexcited," Chr1zN recalls. "It was really big for me back then, and still now, thinking back, it's really impressive for me and something I cherish."
+
+Most of my early understanding was built around the Astralis principles. [...] With time, of course, I've become better and adapted my style
+Christoffer "⁠Chr1zN⁠" Storgaard on learning from his idols early on in his journey as an IGL
+Joining MOUZ NXT, an international team, opened up a lot of opportunities for Chr1zN, who also got to try out being an IGL for a younger group, which gave him more room for error and space to learn from mistakes since that was expected in the academy environment. An environment created by TOBIZ, who made sure to instill strong fundamentals and give Chr1zN confidence that he was progressing adequately. "That was probably the most important because it gave me the feeling that I was always on the right track," Chr1zN recalls.
+
+"At the start, especially when I was coming up fresh, I hadn't played with anyone IGLing before, so it was just my own thoughts and what I saw from other games," Chr1zN recalls from the early days. "I tried to copy and mimic a lot of the stuff Astralis were doing and with time I kind of opened up my view to other teams, of course, but probably more when I was 14 or 15.
+
+"Most of my early understanding was built around the Astralis principles. Things have to be structured, executes are very important, nades and whatnot, taking map control and stuff. But also, it got enforced a lot because all of the Danish teams we were playing were trying to do the same, so you had to adapt to that, as well. With time, of course, I've become better and adapted my style."
+
+Now, Chr1zN likes to give players a lot of freedom early on and then set boundaries where that freedom ends. "For me, especially, the early-round, people have a lot of stuff they can do and say and we can make it happen, so there's a lot of openness for people to take initiative and have this freedom," he says, "but as soon as we get to the mid-round and late-round I like to micromanage a lot and take control.
+
+"For the longest time, I liked playing defaults because it gave me the opportunity to do this, to have free openers and then I kind of mid-round from there, which I think is my biggest strength, but I also think that with how CS is played now it's probably more important to have some good set strats here and there because there's just not a lot of T rounds going around and you don't have that many full-buys, so when the time is right you really need to make it happen with a fast-paced round or whatever it could be. In that sense, I've shifted my style a bit more into set openers sometimes, but I think it's a good mixture."
+
+Chr1zN briefly went from gla1ve to FalleN, to make the analogy with his childhood heroes, and gave AWPing a go while keeping his duties as a caller. "I had flirted with the idea before we went on break, when we knew it might have been a thing that could happen," Chr1zN says, "and at the time we were playing CS:GO, but it switched to CS2 right as I was going to AWP, and that was not a nice move. AWPing became even harder and I was not that good at it, first of all, so it just limited me way more than I would have thought.
+
+
+Chr1zN was crucial in OG making it past Stage 1 at the Austin Major as an IGL and a fragger with a 1.29 rating
+"Luckily for me, half a year later, we got rid of it, which was good. The big positive that came from it was that I got another perspective of the game, but also I got the chance to stand in for HEROIC, who needed an AWPing IGL, so in that sense I was very lucky that it happened at the same time, but it wasn't a plus for me at the time."
+
+The move to OG in 2024 served to further open Chr1zN's eyes to different ways of working. "We had less games and more time to prepare," he says, "and Lambert kind of taught me another way of making gameplans. TOBIZ laid out all of the fundamentals for me, and we were so eye-to-eye in the way we solved stuff, but Lambert challenged me more in some things, which was really good because I've learned more than I would playing with TOBIZ for more years. It has been really good and I've learned a lot."
+
+At 19, Chr1zN's progression has been rapid from his first matches on HLTV with AGF in early '22 to his stint in MOUZ NXT and a shot at leading a tier-two team before his age 20 season. He already played a Major, averaging a 1.29 rating while leading OG through Stage 1 with a 3-1 record, and got his first taste of victory at the smaller DraculaN Season 1 in Bucharest, Romania, where he beat his former teammate from the very early days and #23 on the prospect ranking, William "⁠sirah⁠" Kjærsgaard .
+
+Chr1zN is now at a crux as OG moved him to the bench with his contract set to expire at the end of the year. When asked about the benching, OG's CEO, Xavier Oswald, did not share anything about the youngster. "Everything is still in process regarding the changes in the team," he said. Reports of Casper "⁠cadiaN⁠" Møller being targeted had already broken at the time and his signing is now official, but the reasoning behind benching the singular prospect went unanswered, a shocking move after Lambert "⁠Lambert⁠" Prigent recently said that they "really want to focus on Chr1zN and work with him."
+
+Regarding his own status on the prospect ranking, Chr1zN is proud to be on the list and confident in his place on it. "It's very new, so I had to understand what it's all about," he says. "I think there are a lot of very good players on there, so to be among those is something I'm proud of. Also, I see myself as a hot prospect, so I think I deserve to be there."
+
+
+Quick facts
+Dawy is a big climber, from 20th to 8th.
+
+He has a 1.21 rating at MVP-worthy events, and a solid 1.14 vs top50 (=2nd highest with molodoy in the list).
+
+A solid pack rifler (23.0% of kills are trades, 23.3% of deaths are traded), he and cairne have fired TNL/Inner Circle into relevancy.
+
+Dawy turned 18 on September 21. On that same day, his TNL lost a three-map series to Betera after dropping a 12-0 lead in the opening map and losing it in overtime. Two weeks later, under the Inner Circle banner, they beat The MongolZ 2-0 at ESL Pro League Season 22. The 18-year-old had 120.2 ADR, +12.72%, and a 2.30 rating in the 13-11 victory on Mirage that ended the game. The MongolZ were the top team on both HLTV's World Ranking and the VRS ranking at the time.
+
+
+"It's really crazy, you know?" Dawy says. "On September 20 I lost to ESC online and it was the worst game of my career. On September 21 I lost from 12-0 — that was a crazy experience on my birthday —, but then we beat The MongolZ, so it's really crazy in two weeks we went from losing from 12-0 to BETERA to beating The MongolZ. It's really crazy."
+
+That The MongolZ life game wasn't a one-off, either. The 18-year-old has a 1.20 LAN rating and has excelled from his 1.31-rated outing in TNL's breakout first-place finish at Level Up LUND! to a 1.39 in their 13-16th place finish at the most recent Red Bull GIBAWAY JOURNEY.
+
+"I'm really proud of myself, of course, because it was my dream," Dawy says. "Half a year ago I was watching them, these tier one teams, and I was dreaming of playing on this stage like them."
+
+First as DASH, then as TNL, and now as Inner Circle, Dawy and his teammates really have risen the ranks all on their own from top 200 in the VRS in April to playing at ESL Pro League in October. "At first we were playing against like top 200 teams, then top 100 teams, then top 70, and we were all leveling up," Dawy says. "I was just grinding so much and watching a lot of demos, playing a lot of pugs and praccs."
+
+For the young Ukrainian, it's all about believing in himself even in the face of unfavorable odds. "Every second I was believing in myself," he says, "and I know that I can be on a good team, I can beat good teams — I knew that even when I was top 200. Confidence will come if you're beating teams and you have good numbers. You can't have confidence from nothing, you have to start beating some teams."
+
+I was top 20 in this ranking, but I think I'm higher than top 20
+David "⁠Dawy⁠" Bibik on being 20th in the initial prospect ranking before moving up to #8
+Dawy's love for the game and dedication had been stewing for years. "It was my brother, I'm really happy that he showed me CS," Dawy says. "I was like six-years-old, he was playing CS:S. I was watching him play and it was a really cool game. I started playing with bots, then guys on some public servers."
+
+Now, as he vies to make it in the top echelons of the game, Dawy wants to take the moment to show his gratitude publicly. "Thank you, Vova," he says. "I'm grateful to you for bringing me into this game and for the fact I'm at tier one [level] now, and also thank you, mom and dad, for believing in me."
+
+First, it was a hobby. Then, by age 10 or 11, Dawy started watching top tier tournaments. Before that, though, he had gone to the The National Palace of Arts Ukraina in Kyiv, where StarSeries events used to take place. "I even have a picture with Zeus, Dosia, Magisk — when he was playing in Dignitas and his nickname was Magiskb0Y —, you know? I was watching and I was, like, 'wow, this is really cool, I also want to play on this stage, this arena, this level.'"
+
+By 12, Dawy reached Global Elite and the FACEIT grind started. That's when his grandparents gave him a new PC and he could leave his laptop and the 30 FPS life behind. "And that's when my career started," he says.
+
+
+Dawy thanked his family for their support when speaking with HLTV for the Prospect Report
+So far, he has been impressing enough to become a top 20 prospect, and it hasn't gone unnoticed. "It's really cool that some people, some teams, HLTV, that they know that there's some talent, and I'm really proud of myself for this because some good cybersports mens on Twitter are starting to follow me now and it's really cool," he says. "But, you know, I was top 20 in this ranking, but I think I'm higher than top 20."
+
+Dawy thinks he is better than some of the names above him on the first prospect ranking. Now, he made the jump to the top 10. "I think I proved to some guys and also to HLTV that I can be higher at [EPL Season 22]," he says.
+
+"Honestly, I don't know what it'll be with me and my future," he says, but he knows that the grind won't stop and he believes that there will be more chances to show himself.
+
+"[ESL Pro League was] my first tier-one tournament. I can see the tier-one players live, not on the stream, and I can shake hands with them," he concludes. "I can say hi at the hotel, it's really cool. I want to play more tournaments like this."
+
+
+Quick facts
+Another big climber, from 35th to 18th, after shining for FUT this season.
+
+dem0n is a tad more passive than your average rising CS2 star and 36% of his kills are assisted (98 trading attribute).
+
+Therefore it's no surprise that his doppelganger is a player like Twistzz who has sharp aim (dem0n has 67.5% HS%) and likes to go second or third into sites.
+
+dem0n is a classic younger brother who first learned of Counter-Strike through an older sibling. That was when he was eight years old, and by nine he got his first PC and started on his own journey. Four years later, at 13, he joined NAVI's youth program. "It was unexpected because at that time it was not really normal to sign young players," dem0n says. "As I remember, the youngest guy to join was m0NESY, he was 14. I was kind of proud because I can call myself the youngest at that age."
+
+
+Read more
+NAVI add Dem0N to academy roster
+dem0n spent time in all tiers of NAVI's development program: NAVI Academy, NAVI Youth, and NAVI Junior. At first, just shadowing those who were there before him. "I was in TeamSpeak with m0NESY, headtr1ck, and I was just spectating how they were playing," he says, "but I don't remember much from that time."
+
+Things started to ramp up in 2023, when he was called up to NAVI Junior alongside the likes of Aulon "⁠Krabeni⁠" Fazlija and Drin "⁠makazze⁠" Shaqiri, but it was in 2025 when the team really started to come into its own, so much so that they became too good to stay as an academy team under the Natus Vincere banner.
+
+
+FUT has three prospects, including dem0n, and the team's average age is below 19
+makazze got called up to the main team when Justinas "⁠jL⁠" Lekavicius decided to step down, and the rest of the Junior squad was bought out by FUT. "I'm not really disappointed because I know that makazze was the first priority and not me, for sure," dem0n says of not continuing through the pipeline in Natus Vincere all the way to the first team. "And at that time I was kind of having some confidence problems, so I didn't feel sure that I would get an invite to a tier-one team, but in the end, I like what happened now."
+
+What happened now is that FUT are 30th in the HLTV World Ranking and 40th in the VRS Global Ranking. They finished in 5-6th place at their biggest event to date, the CS Asia Championships and are knocking at the doors of reaching top-tier events.
+
+dem0n is the highlighted player in this update, but two of his teammates, Džiugas "⁠dziugss⁠" Steponavičius and Krabeni, are also on the prospect ranking. The team is just 18.9 years old on average and the most experienced player, Laurențiu "⁠lauNX⁠" Țârlea, is having a second youth at the tender age of 20.
+
+
+Now, dem0n is working on his confidence and it's showing. "[It's] my problem since I have played big CS, from 13 years-old, when I just joined the game, so I'm kind of working on it. Right now I feel better, for sure," he says, and adds that "after showing good individual performances I would say that I should be a little bit higher [on the ranking]." From 35th on the list, he has now entered the top 20.
+
+"I don't like to have any expectations, but for sure I just want to keep up this level where I'm at right now to keep playing these kinds of tournaments," he concludes. "It's a really enjoyable time visiting big cities, big hotels, and everything is enjoyable, so I should just play better."
+
+dem0n has has emerged as the team's best player since losing makazze with a 1.16 rating since joining FUT and recently posted a solid 1.11 at CAC, trailing only fellow prospect dziugss's 1.12 in China. As FUT have started to get more exposure, the "he really is a dem0n" puns have started to rear their head, and don't expect them to stop anytime soon.
+
+HLTV's Top 50 Prospects
+1. Kazakhstan Danil "⁠molodoy⁠" Golubenko
+2. Russia Maxim "⁠kyousuke⁠" Lukin
+3. Czech Republic Oldřich "⁠PR⁠" Nový
+4. Kosovo Drin "⁠makazze⁠" Shaqiri
+5. Ukraine Dmytro "⁠jambo⁠" Semera
+6. United States Mason "⁠Lake⁠" Sanderson
+7. Poland Kacper "⁠xKacpersky⁠" Gabara
+8. Ukraine David "⁠Dawy⁠" Bibik
+9. Argentina Tomas "⁠tomaszin⁠" Corna
+10. China Qianhao "⁠Moseyuh⁠" Chen
+11. Russia Ivan "⁠zweih⁠" Gogin
+12. Kosovo Aulon "⁠Krabeni⁠" Fazlija
+13. Poland Alan "⁠flayy⁠" Krupa
+14. Sweden Linus "⁠nilo⁠" Bergman
+15. Belarus Gleb "⁠gr1ks⁠" Gazin
+16. China Dongkai "⁠Jee⁠" Ji
+17. Denmark Christoffer "⁠Chr1zN⁠" Storgaard
+18. Ukraine Dmytro "⁠dem0n⁠" Myroshnychenko
+19. Russia Klimentii "⁠kl1m⁠" Krivosheev
+20. Australia Corey "⁠nettik⁠" Browne
+21. Mongolia Anarbileg "⁠cobrazera⁠" Uuganbayar
+22. Lithuania Gytis "⁠ryu⁠" Glušauskas
+23. Denmark William "⁠sirah⁠" Kjærsgaard
+24. Russia Vladislav "⁠xiELO⁠" Lysov
+25. Poland Jakub "⁠jcobbb⁠" Pietruszewski
+26. Brazil João "⁠koala⁠" Pfeffer
+27. Sweden Adam "⁠adamb⁠" Ångström
+28. Russia Danila "⁠kashl1d⁠" Dronov
+29. Russia Philipp "⁠tex1y⁠" Moskvitin
+30. Finland Paavo "⁠podi⁠" Heiskanen
+31. Estonia Andreas "⁠aNdu⁠" Maasing
+32. Denmark Martin "⁠nut nut⁠" Holm Vestergaard
+33. Sweden Liam "⁠MaiL09⁠" Tügel
+34. China Shengxuan "⁠chengking⁠" Zu
+35. Lithuania Džiugas "⁠dziugss⁠" Steponavičius
+36. Kazakhstan Alimzhan "⁠Alkaren⁠" Bitimbay
+37. Lebanon Hussein "⁠m1N1⁠" Hijazi
+38. Turkey Caner "⁠soulfly⁠" Kesici
+39. Brazil Moisés "⁠tomate⁠" Lima
+40. Sweden Alex "⁠poiii⁠" Nyholm Sundgren
+41. Brazil Diogo "⁠diozera⁠" Oliveira Nunes
+42. Russia Emil "⁠nota⁠" Moskvitin
+43. Poland Jan "⁠cej0t⁠" Dyl
+44. France Ryan "⁠Neityu⁠" Aubry
+45. United States Jaxon "⁠Peeping⁠" Cornwell
+46. United Kingdom Jack "⁠Gizmy⁠" von Spreckelsen
+47. Denmark Nicky "⁠NickyB⁠" Bruhn
+48. Brazil João "⁠bacc⁠" Pedro
+49. Russia Andrey "⁠AW⁠" Anisimov
+50. Finland Ville "⁠myltsi⁠" Vilkman
+
+
+hally on criticism: "It's perhaps justified in places, but you can also see what results I have with the young roster, and I don't devalue my work"
+Nohte
+13-11-2025 22:45
+"I hope at the Major we will be able to show the CS we're building," the Spirit coach said.
+
+
+Spirit made it out of Group A at BLAST Rivals following a 2-0 victory over The MongolZ, bouncing back from the opening day's defeat to Falcons — their third consecutive loss to Damjan "⁠kyxsan⁠" Stoilkovski's troops.
+
+It's been a challenging couple of months for the Russian team, who have found it hard to integrate Andrey "⁠tN1R⁠" Tatarinovich into their system after having already made a change this season when they brought Ivan "⁠zweih⁠" Gogin in for Boris "⁠magixx⁠" Vorobiev.
+
+Questioned about the team's recent struggles, Sergey "⁠hally⁠" Shavaev conceded that two changes in the space of two months "is quite much."
+
+"He [tN1R] joined the team during the rebuild and not during our peak," he told HLTV. "If he had joined us during the peak, I think it would have been easier for him."
+
+As Spirit prepare for the playoffs, hally admits that the focus is on Budapest. "For us, both Chengdu and Hong Kong are preparation events for the Major," he said. "I hope at the Major we will be able to show the CS we're building,"
+
+Date	Matches	
+BLAST Rivals 2025 Season 2
+14/11/2025
+Spirit
+Spirit
+18:30
+Vitality
+Vitality
+Match
+Note: The answers were given in Russian and translated into English by HLTV.
+
+You've got revenge over The MongolZ here and you're through to the playoffs. There was a lot of frustration shown yesterday, so how did you reset?
+
+Regarding the game with The MongolZ, the last time we didn't have time to prepare, I believe it played a key role. Meanwhile, I can also say that we're in a suboptimal condition, and we're looking for ways to go back.
+
+For us, both Chengdu and Hong Kong are preparation events for the Major. We try to change our approach and find our game, because now it doesn't look so reliable and consistent. I estimate the team is ranked the way it actually is. It is in our power to change it and come to the Major with a higher level of play.
+
+You lost to Falcons in Chengdu and again here at BLAST Rivals. NiKo and m0NESY are also 9-0 vs the Spirit core. What is it about that duo that gives you so much trouble?
+
+(laughs) Yes, it's true, we're going 0-9 with them. I think they understand the way we play in the attack well. We tried changing certain details, but it didn't work. But I can say that there's a mental aspect to it, and I think it's more important than the game part.
+
+In many moments of these nine games, we couldn't finish off a map where we had situations like yesterday, when we were 11-11 in a 5v4, we found an entry on Long and had a '3 B' call. The moment they walk out, the grenade falls right in front. Things like this happen.
+
+Going back to Chengdu, it wasn't Spirit's best performance. You struggled against HEROIC and lost to The MongolZ. What went wrong?
+
+I believe that in the last half a year, since Andrey joined, we haven't had a lot of in-game practice, also two changes within two months is quite much. I hope at the Major we will be able to show the CS we're building.
+
+It's perhaps justified in places. But you can also see what results I have with the young roster, and I do not devalue my work
+Sergey "⁠hally⁠" Shavaev on criticism of his work
+You said in Spirit's VLOG that after the loss to FaZe at EPL, some moments gave you a reason to think about your approach, and you had a freer and lighter schedule in Chengdu. Was this new approach a problem? Is there anything you're changing coming here?
+
+No, after the loss to FaZe, we had multiple days off and practiced intensively for Chengdu. We tried to come in at our maximum for this event, and meanwhile, try new things that are not working.
+
+Tell me about tN1R's development this season. You said you can't compare tN1R with zont1x, with their different roles, so what has the process been in making that adjustment in the team?
+
+Regarding Andrey, he has experience in different roles in past teams, so it's easier for him to adapt to new things. Meanwhile, if you look at the structure of our team, it's different from the teams that he had played for before. So it's important for him to gain [experience] as not a lot of time has passed.
+
+Also, it happened so that besides EPL we've had only two events for practice, and with more officials, it's going to get easier for him. And also, he joined the team during the rebuild and not during our peak. If he had joined us during the peak, I think it would have been easier for him.
+
+
+hally says tN1R needs time to adapt to the team's system
+There have been conversations by the community about your impact on the team, with some questioning your ability to make this roster work. Do you think that criticism is deserved or valid, and how would you answer to that?
+
+Regarding the criticism, it's perhaps justified in places. But you can also see what results I have with the young roster, and I do not devalue my work. I believe that in this team, all six people matter, while losses are my responsibility to a higher degree.
+
+You've talked about what tN1R and zweih bring before, but the loss of zont1x and magixx must have also created some holes in the team. What is the team missing now that they brought, and how are you working to address that?
+
+Regarding losing zont1x and magixx, it's a question of balance. magixx was a player who cleans up in the voice, he played with bad weapons, he played the toughest positions. zweih came in with a higher firepower, but for him to play like such a player, he needs a lot of time.
+
+As for Andrey, he's similar to zont1x in terms of positions, but he needs more actions on the map than zont1x. And for that, you need those actions to happen. We're playing with such a player for the first time, so we need time to see how he adapts to this.

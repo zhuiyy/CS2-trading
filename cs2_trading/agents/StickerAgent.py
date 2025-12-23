@@ -89,13 +89,14 @@ class StickerFinder(AgentBase):
     '''
     function: work(news: str) -> list
     '''
-    def __init__(self, client, llm_model):
+    def __init__(self, client=None, llm_model=None):
         super().__init__(client, llm_model)
         # Prefer a very simple, one-item-per-line output to improve robustness.
         self.default_system_prompt = (
             "你是一个CS2游戏印花饰品嗅探专家。\n"
             "请从给定的新闻中找出最多 5 个相关的印花饰品名称。\n"
             "非常重要：只输出名称，每行一个，不要解释、不要编号、不要 JSON，不要其它文本。\n"
+            "注意：只提取印花（Sticker），忽略任何枪械皮肤（Skin）或探员（Agent）。\n"
             "例如：\nZywOo 上海 全息\n绿龙 金色\n如果没有找到任何印花，请只返回单行 EMPTY。"
         )
         self.add_system_message(self.default_system_prompt)
@@ -137,10 +138,10 @@ class StickerFinder(AgentBase):
 
 class StickerAdviser(AgentBase):
     '''
-    function: work(data: json) -> str
+    function: work(news_data: str) -> str
     function: reset(last_words_prompt: str, system_prompt: str = None) -> None
     '''
-    def __init__(self, client, llm_model):
+    def __init__(self, client=None, llm_model=None):
         super().__init__(client, llm_model)
         self.default_system_prompt = "你是一个CS2游戏**印花饰品**分析[专家], 擅长从多元化的新闻中分析职业队伍/选手/比赛动态, 同时擅长结合金融分析数据给出投资建议(事实上金融分析师给出的数据没有考虑到近期新闻内容, 所以需要你好好把握衡量), 值得注意的是, 你要考虑到CS2市场的t+7性质, 基于此做出评价并给出建议."
         self.add_system_message(self.default_system_prompt)
@@ -159,10 +160,10 @@ class StickerAdviser(AgentBase):
 
 class StickerAgent:
     '''
-    function: find_stickers(news: str) -> list
-    function: advise_stickers(news_data: str) -> str
+    function: work(news: str) -> str
+    function: reset(last_words_prompt: str, system_prompt: str = None) -> None
     '''
-    def __init__(self, client, llm_model, info_api: Any = None):
+    def __init__(self, client=None, llm_model=None, info_api: Any = None):
         # composition-based agent (does not inherit AgentBase)
         self.client = client
         self.llm_model = llm_model
@@ -172,13 +173,13 @@ class StickerAgent:
         self.data_reducer = DataReducingAgent(client, llm_model)
 
     def work(self, news: str) -> str:
+        if not news:
+            return "No news provided."
+
         sticker_names = self.finder.work(news)
         if not sticker_names:
-            news_data = f"新闻内容:\n{news}\n\n"
-
-            advice = self.adviser.work(news_data)
-            print("No stickers found, general advice given.")
-            return advice
+            print("No stickers found.")
+            return "未在新闻中发现印花相关内容，跳过分析。"
         
         # Resolve names to ids; handle single id or list of ids from API
         sticker_ids = []

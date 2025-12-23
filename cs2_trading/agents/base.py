@@ -1,9 +1,18 @@
 from typing import Any, Dict, List, Optional
 from pathlib import Path
+from cs2_trading.llm.wrapper import LLMWrapper, get_llm
 
 class AgentBase:
     def __init__(self, client: Optional[Any] = None, llm_model: Optional[str] = None):
-        self.client = client
+        # If client is passed, use it (legacy support). 
+        # If not, try to create a wrapper based on llm_model.
+        if client:
+            self.llm = None # Legacy client handling inside get_response
+            self.client = client
+        else:
+            self.llm = get_llm(llm_model)
+            self.client = None
+            
         self.llm_model = llm_model
         self.memory: List[Dict[str, str]] = []
         self.last_words: Optional[str] = None
@@ -12,13 +21,21 @@ class AgentBase:
         self.memory.append({'role': 'system', 'content': message})
 
     def get_response(self, user_prompt: str) -> str:
-        if self.client is None:
-            content = f"[no-llm] echo: {user_prompt}"
-        else:
+        # Prepare messages
+        messages = self.memory + [{'role': 'user', 'content': user_prompt}]
+        
+        content = ""
+        
+        # New Wrapper Logic
+        if self.llm:
+            content = self.llm.chat(messages)
+            
+        # Legacy Logic (keep for backward compatibility if client was passed directly)
+        elif self.client:
             try:
                 completion = self.client.chat.completions.create(
                     model=self.llm_model,
-                    messages=self.memory + [{'role': 'user', 'content': user_prompt}]
+                    messages=messages
                 )
                 content = completion.choices[0].message.content
             except Exception:
@@ -26,6 +43,8 @@ class AgentBase:
                     content = self.client.call(user_prompt)
                 except Exception:
                     content = "[llm-call-failed]"
+        else:
+            content = f"[no-llm] echo: {user_prompt}"
 
         self.memory.append({'role': 'user', 'content': user_prompt})
         self.memory.append({'role': 'assistant', 'content': content})

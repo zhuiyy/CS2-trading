@@ -1,0 +1,278 @@
+[
+    {
+        "id": "420",
+        "name": "100 Thieves",
+        "bought_price": 1739.0,
+        "purchase_date": "2025-11-11T00:00:00",
+        "extra_info": {
+            "initial_score": 95,
+            "rarity": "Unknown"
+        },
+        "ready_to_sell": false,
+        "in_hand": 0,
+        "daily_score": [
+            50,
+            50,
+            90,
+            92,
+            90,
+            92,
+            95
+        ],
+        "daily_price": [
+            1739.0,
+            1739.0,
+            1729.0,
+            1700.0,
+            1729.0,
+            1719.0,
+            1719.0
+        ]
+    },
+    {
+        "id": "6173",
+        "name": "rain",
+        "bought_price": 1850.0,
+        "purchase_date": "2025-11-11T00:00:00",
+        "extra_info": {
+            "initial_score": 85,
+            "rarity": "Unknown"
+        },
+        "ready_to_sell": false,
+        "in_hand": 0,
+        "daily_score": [
+            50,
+            50,
+            95,
+            95,
+            92,
+            95,
+            92
+        ],
+        "daily_price": [
+            1850.0,
+            1850.0,
+            1850.0,
+            1850.0,
+            1499.0,
+            1499.0,
+            1499.0
+        ]
+    },
+    {
+        "id": "5926",
+        "name": "jks",
+        "bought_price": 288.0,
+        "purchase_date": "2025-11-11T00:00:00",
+        "extra_info": {
+            "initial_score": 45,
+            "rarity": "Unknown"
+        },
+        "ready_to_sell": false,
+        "in_hand": 0,
+        "daily_score": [
+            50,
+            50,
+            45,
+            40,
+            40,
+            35,
+            35
+        ],
+        "daily_price": [
+            288.0,
+            288.5,
+            287.5,
+            268.0,
+            268.0,
+            268.0,
+            268.0
+        ]
+    },
+    {
+        "id": "10108",
+        "name": "FURIA",
+        "bought_price": 164.88,
+        "purchase_date": "2025-11-12T00:00:00",
+        "extra_info": {
+            "initial_score": 90,
+            "rarity": "Unknown"
+        },
+        "ready_to_sell": false,
+        "in_hand": 0,
+        "daily_score": [
+            95,
+            90,
+            88,
+            98,
+            98,
+            95
+        ],
+        "daily_price": [
+            229.0,
+            224.78,
+            216.49,
+            213.91,
+            214.44,
+            216.8
+        ]
+    },
+    {
+        "id": "8947",
+        "name": "cadiaN",
+        "bought_price": 20.14,
+        "purchase_date": "2025-11-12T00:00:00",
+        "extra_info": {
+            "initial_score": 80,
+            "rarity": "Unknown"
+        },
+        "ready_to_sell": false,
+        "in_hand": 0,
+        "daily_score": [
+            85,
+            80,
+            75,
+            75,
+            75,
+            70
+        ],
+        "daily_price": [
+            23.9,
+            24.0,
+            22.7,
+            22.9,
+            24.99,
+            25.0
+        ]
+    },
+    {
+        "id": "9920",
+        "name": "Vitality",
+        "bought_price": 16.79,
+        "purchase_date": "2025-11-12T00:00:00",
+        "extra_info": {
+            "initial_score": 70,
+            "rarity": "Unknown"
+        },
+        "ready_to_sell": false,
+        "in_hand": 0,
+        "daily_score": [
+            60,
+            85,
+            88,
+            80,
+            75,
+            75
+        ],
+        "daily_price": [
+            22.79,
+            22.69,
+            22.39,
+            22.21,
+            25.0,
+            24.5
+        ]
+    },
+    {
+        "id": "15029",
+        "name": "m0NESY",
+        "bought_price": 5.19,
+        "purchase_date": "2025-11-13T00:00:00",
+        "extra_info": {
+            "initial_score": 85,
+            "rarity": "Unknown"
+        },
+        "ready_to_sell": false,
+        "in_hand": 0,
+        "daily_score": [
+            85,
+            85,
+            95,
+            95,
+            90
+        ],
+        "daily_price": [
+            5.66,
+            5.55,
+            5.6,
+            5.79,
+            5.79
+        ]
+    },
+    {
+        "id": "336",
+        "name": "FaZe",
+        "bought_price": 78.7,
+        "purchase_date": "2025-11-13T00:00:00",
+        "extra_info": {
+            "initial_score": 55,
+            "rarity": "Unknown"
+        },
+        "ready_to_sell": false,
+        "in_hand": 0,
+        "daily_score": [
+            60,
+            60,
+            60,
+            60,
+            60
+        ],
+        "daily_price": [
+            78.7,
+            78.7,
+            78.7,
+            78.7,
+            78.7
+        ]
+    },
+    {
+        "id": "16561",
+        "name": "The MongolZ",
+        "bought_price": 0.02,
+        "purchase_date": "2025-11-13T00:00:00",
+        "extra_info": {
+            "initial_score": 45,
+            "rarity": "Unknown"
+        },
+        "ready_to_sell": false,
+        "in_hand": 0,
+        "daily_score": [
+            45,
+            45,
+            45,
+            45,
+            45
+        ],
+        "daily_price": [
+            0.02,
+            0.02,
+            0.02,
+            0.02,
+            0.02
+        ]
+    },
+    {
+        "id": "20026",
+        "name": "donk",
+        "bought_price": 1.74,
+        "purchase_date": "2025-11-14T00:00:00",
+        "extra_info": {
+            "initial_score": 85,
+            "rarity": "Unknown"
+        },
+        "ready_to_sell": false,
+        "in_hand": 0,
+        "daily_score": [
+            82,
+            78,
+            80,
+            78
+        ],
+        "daily_price": [
+            1.79,
+            1.76,
+            1.77,
+            1.73
+        ]
+    }
+]

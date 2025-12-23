@@ -8,7 +8,7 @@ class DataReducingAgent(AgentBase):
     function: reset(last_words_prompt: str, system_prompt: str = None) -> None
     '''
     default_system_prompt  = "你是一个CS2游戏饰品市场数据简化[专家], 擅长从复杂的数据中提取关键信息并进行简明扼要的总结, 你乐于分享你的见解."
-    def __init__(self, client, llm_model):
+    def __init__(self, client=None, llm_model=None):
         super().__init__(client, llm_model)
         self.add_system_message(self.default_system_prompt)
 

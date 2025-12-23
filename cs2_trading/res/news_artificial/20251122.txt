@@ -1,0 +1,127 @@
+nitr0 to miss Budapest Major
+MIRAA
+22-11-2025 02:58
+NRG's captain will not be able to play at the event due to personal reasons.
+
+
+nitr0 will be replaced by daps in Budapest
+Nick "⁠nitr0⁠" Cannella will miss the StarLadder Budapest Major to attend the birth of his child, the North American organization announced on Friday. He will be replaced by head coach Damian "⁠daps⁠" Steele, who has been submitted as the team's substitute for the event.
+
+nitr0's absence is a blow for NRG, who are hoping to improve on the Austin Major's top-27 finish. The North American team will travel to Budapest on the back of a title-winning run at Fragadelphia Ultra Mega Jersey — their second consecutive Fragadelphia trophy.
+
+
+Read more
+NRG, Gaimin Gladiators claim ESL Pro League berths
+daps returned to a coaching role in March 2024 after four months on NRG's starting roster. This year, he has only played one map with the team, putting in a 0.55 rating in a 16-14 victory against BLUEJAYS in ESL Challenger League Season 50 North America Cup 1.
+
+Date	Matches	
+StarLadder Budapest Major 2025 Stage 1
+24/11/2025
+Ninjas in Pyjamas
+Ninjas in Pyjamas
+22:15
+NRG
+NRG
+Match
+NRG qualified for the Major as the eighth-highest-ranked team in the Americas. In the opening round of Stage 1, they will take on Ninjas in Pyjamas.
+
+nitr0's absence means that NRG will travel to Budapest with:
+
+United States Jeorge "⁠Jeorge⁠" Endicott
+Denmark Alexander "⁠br0⁠" Bro
+United States Zack "⁠XotiC⁠" Elshani
+South Africa Aran "⁠Sonic⁠" Groesbeek
+Canada Damian "⁠daps⁠" Steele (stand-in)
+
+
+Wildcard bench roster
+Sumljiv
+22-11-2025 06:02
+Wildcard appear unlikely to keep any members of their current roster.
+
+
+Wildcard have transfer listed Peter "⁠stanislaw⁠" Jarguz, Josh "⁠JBa⁠" Barutt, and Love "⁠phzy⁠" Smidebrant, benched Jaxon "⁠Peeping⁠" Cornwell, and announced they are set to part ways with Maciej "⁠F1KU⁠" Miklas following the Pole's contract expiry at the end of November.
+
+The move continues a roller-coaster period for the organization, as the team moved phzy and stanislaw away from their active roster during the summer only to reinstate them shortly after, while also removing Sebastian "⁠fr3nd⁠" Kuśmierz and Tim "⁠susp⁠" Ångström since the break.
+
+Wildcard's core leaves behind a legacy of two Major appearances in Shanghai and Austin, but the partnership has turned sour in recent months. In an interview with Dust2.us, phzy made the shocking revelation that he heard ChatGPT was involved in the roster decisions and stated that he felt "betrayed" by the organization following his benching.
+
+The upheaval leaves Wildcard with no players on the active roster, but the organization did announce that more news on their CS division is set to come "in the coming days."
+
+Wildcard are now:
+
+Canada Peter "⁠stanislaw⁠" Jarguz (transfer-listed)
+Sweden Love "⁠phzy⁠" Smidebrant (transfer-listed)
+United States Josh "⁠JBa⁠" Barutt (transfer-listed)
+United States Jaxon "⁠Peeping⁠" Cornwell (benched)
+Poland Maciej "⁠F1KU⁠" Miklas (contract expires at the end of November)
+
+Four new EVPs given out from before Rating 3.0's release
+NER0cs
+22-11-2025 22:48
+We have revised the EVP lists of all the events from this year before eco-adjusted data was available.
+
+
+With just one event remaining before the top 20 players of 2025 list kicks off, it's a good time to conduct some housekeeping from before rating 3.0's release.
+
+EVP lists were made at the time using rating 2.1, and without access to fully reliable eco-adjusted data, so it makes sense to go back and revise the lists to ensure players are judged on a level playing field ahead of the end of the year.
+
+For some players, that's good news, and for others their 'score' for the event has gone down compared to 2.1. But in this article, we will only discuss the players who have gone from an honourable mention, or valuable player, into an exceptionally valuable player (EVP). So let's begin.
+
+BLAST Bounty Season 1
+
+Valeriy "⁠b1t⁠" Vakhovskiy is our first player with an extra EVP, taking his tally to three for the year after nods at super-elite IEM events in Katowice and Cologne.
+
+His Bounty Season 1 stats, all the way back in January, were already strong but we decided against an EVP given that he was behind Mihai "⁠iM⁠" Ivan on rating 2.1 and kills per round win in the LAN portion.
+
+Now, however, he has jumped ahead of iM on LAN (to 1.16). Under 3.0, even if you take out his dismantling of Imperial Valkyries, he is at an EVP-level 1.21 rating, +1.49% Swing, and 119.7 ADR in round wins.
+
+
+João "⁠snow⁠" Vinicius is the other benefactor of rating 3.0 from the first event of the year, making a huge jump from 1.18 on LAN to 1.39 on the new rating system.
+
+In that Natus Vincere quarter-final, snow was at a server-high +5.50% Swing, with a 1.39 rating and solid eco-adjusted damage and kills.
+
+That turns a good quarter-final into a great one, enough to confirm an EVP after good online form against GamerLegion and FaZe beforehand.
+
+BLAST.tv Austin Major
+
+Lotan "⁠Spinx⁠" Giladi's 1.08 rating 2.1 made it hard for him to confirm his EVP in Austin originally, having plenty of lows to go with peaks against Liquid, Aurora, and Spirit.
+
+But on rating 3.0, those peaks have got even better and MOUZ's lurker averages a 1.38 rating in their 8 notable map wins, and 1.27 including the full three maps of the semi-final.
+
+He was also the teams' leader in round wins, and a 1.12 rating rather than 1.08 completes his case for making it into the EVP list.
+
+IEM Cologne 2025
+
+We were harsh on Robin "⁠ropz⁠" Kool at Cologne originally, finding flaws in his group stage (where he had just 0.77 kills per round win) and not counting his 1.12-rated semi-final as enough for an EVP.
+
+But on 3.0, he jumps way up to 1.34 against MOUZ, a strong enough playoffs to push him into the EVP list even if the group stage was a team effort between all of Vitality.
+
+Another EVP puts ropz on seven for the year, smashing his record of 5 from 2019 with one event to go.
+
+Players with multiple awards in 2025
+
+The EVPs of 2025
+Denmark BLAST Bounty S1
+Romania PGL Cluj-Napoca
+Portugal BLAST Open S1
+Australia IEM Melbourne
+Kazakhstan PGL Astana
+United States BLAST.tv Austin (M)
+Germany IEM Cologne
+Saudi Arabia Esports World Cup
+Serbia FISSURE Playground 2
+Malta Thunderpick WC
+Romania PGL Masters
+Hong Kong BLAST Rivals S2
+Poland IEM Katowice
+Sweden ESL Pro League S21
+Romania PGL Bucharest
+Denmark BLAST Rivals S1
+United States IEM Dallas
+Serbia FISSURE Playground 1
+Malta BLAST Bounty S2
+United Kingdom BLAST Open S2
+Sweden ESL Pro League S22
+China PW CAC
+China IEM Chengdu
