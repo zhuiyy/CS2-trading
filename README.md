@@ -55,9 +55,7 @@ backtest.log                    # 详细的交易日志
 
 *   **总体表现**: 策略在模拟期间面临挑战，主要受制于高价资产（如 NiKo 贴纸）的剧烈波动。
 *   **关键发现 (Key Insights)**:
-    *   **选品 vs. 仓位 (Selection vs. Sizing)**: 通过 `analysis_backtest.ipynb` 中的 **等权重反事实分析 (Counterfactual Analysis)** 发现，AI 的选品眼光（即挑选潜力资产的能力）实际上优于其最终的账户表现。
-    *   **归因分析**: 亏损的主要原因在于**仓位管理不当**——即在单价高且表现不佳的资产上投入了过多资金，掩盖了其他低价潜力资产（如杂牌战队贴纸）的涨幅。
-    *   **模型能力**: Gemini 3 Flash Preview 在开启 `thinking_level="medium"` 后，能够给出非常详尽且符合逻辑的市场分析，但在具体的“止损”操作上仍显犹豫。
+    *   **选品 vs. 仓位 (Selection vs. Sizing)**: 通过 `analysis_backtest.ipynb` 中的 **等权重反事实分析 (Counterfactual Analysis)** 发现，AI 的选品眼光（即挑选潜力资产的能力）较优。
 
 ## 🚀 如何运行 (How to Run)
 
